@@ -9,4 +9,4 @@ def add(x,y):
 x*y
 
 def sub(x,y):
-divide by 0
+divide             by 0
